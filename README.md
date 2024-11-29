@@ -1,35 +1,37 @@
-# Startup - Free Next.js Startup Website Template
+# NextJS Landing Page Template 
 
-Startup free, open-source, and premium-quality startup website template for Next.js comes with everything you need to launch a startup, business, or SaaS website, including all essential sections, components, and pages.
+This is a Landing Page template for [Next.js](https://nextjs.org/) 14 App Router. 
 
-If you're looking for a high-quality and visually appealing, feature-rich Next.js Template for your next startup, SaaS, or business website, this is the perfect choice and starting point for you!
+## Built Using and Initialised with ⚒️
+- Tailwind CSS
+- [Shadcn](https://ui.shadcn.com/) Components + Themes
+- Custom Components and Layouts that are fully responsive in both Mobile and Desktop View
+- Vercel's [Geist Font](https://vercel.com/font)
 
-### ✨ Key Features
-- Crafted for Startup and SaaS Business
-- Next.js 13 and Tailwind CSS
-- All Essential Business Sections and Pages
-- High-quality and Clean Design
-- Dark and Light Version
-- TypeScript Support
-and Much More ...
+## Preview
+![Preview](https://github.com/moinbukhari/NextJS-landing-page-template/blob/main/landing_page_preview.jpg)
 
-### [🚀 View Demo](https://startup.nextjstemplates.com/)
+## Getting Started
 
-### [📦 Download](https://nextjstemplates.com/templates/startup)
+First, run the development server:
 
-### [🔌 Documentation](https://nextjstemplates.com/docs)
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-### ⚡ Deploy Now
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FNextJSTemplates%2Fstartup-nextjs)
-
-[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/NextJSTemplates/startup-nextjs)
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 
-### 📄 License
-Startup is 100% free and open-source, feel free to use with your personal and commercial projects.
+## Deploy on Vercel
 
-### 💜 Support
-If you like the template, please star this repository to inspire the team to create more stuff like this and reach more users like you!
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-### ✨ Explore and Download - Free [Next.js Templates](https://nextjstemplates.com)
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
